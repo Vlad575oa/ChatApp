@@ -13,7 +13,7 @@ struct TitleRow: View {
   var name = "Sara Smith"
 
     var body: some View {
-      HStack(spacing: 20) {
+      HStack(spacing: 30) {
       AsyncImage(url: imageUrl) { image in
         image.resizable()
           .aspectRatio(contentMode: .fill)
