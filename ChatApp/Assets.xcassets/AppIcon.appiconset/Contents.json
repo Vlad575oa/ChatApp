@@ -1,0 +1,14 @@
+{
+  "images" : [
+    {
+      "filename" : "craiyon_172034_icon_for_app___chat.png",
+      "idiom" : "universal",
+      "platform" : "ios",
+      "size" : "1024x1024"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
